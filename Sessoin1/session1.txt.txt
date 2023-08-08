@@ -1,0 +1,40 @@
+1- mkdir "seham ibrahim"
+2- cd seham\ ibrahim/
+
+3-mkdir documents 
+4- cd documents
+5- touch file1.txt file2.txt file3.txt
+6- ls
+
+7- cd ..
+8- touch .hidden_file
+9-ls-a
+
+10-cd documents
+11- nano file1.txt
+12- cat file1.txt
+
+13- cd documents 
+
+14-mkdir - 
+15- pwd 
+16- cd /home/kali/seham\ ibrahim/documents/-
+
+17- cp -r documents my_documents
+18- ls
+
+19- nano .hidden_file
+20- cat .hidden_file 
+
+21- mv file2.txt /home/kali/seham\ ibrahim/
+22- mv file3.txt /home/kali/seham\ ibrahim/
+23-cd .. 
+24- ls
+
+25-cd 
+26- rm -r "seham ibrahim"
+27- ls 
+
+
+
+
